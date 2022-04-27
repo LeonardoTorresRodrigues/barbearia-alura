@@ -248,6 +248,58 @@ td, th {
     box-shadow: 5px 10px 10px #000000;
 }
 
+@media screen and (max-width: 768px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    .principal {
+        padding: 3em 1em;
+    }
+
+    .utensilios {
+        width: 190px;
+    }
+
+    .mapa, .beneficios {
+        padding: 1.5em 0 3em;
+    }
+
+    .mapa-conteudo {
+        width: 700px;
+    }
+
+    .lista-beneficios, .imagem-beneficios {
+        width: 100%;
+    }
+
+    .itens {
+        margin-left: 2.1em;
+    }
+
+    .imagem-beneficios {
+        width: 90%;  
+        margin: 0 2rem; 
+    }
+
+    .video {
+        width: 70%;
+    }
+
+}
+
 @media screen and (max-width: 425px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
@@ -265,8 +317,38 @@ td, th {
         text-align: center;
     }
 
+    .principal {
+        padding: 3em 1em 1em;
+    }
+
+    .utensilios {
+        width: 170px;
+        margin-left: 0;
+    }
+
+    .mapa, .beneficios {
+        padding: 1.5em 0 3em;
+    }
+
+    .mapa-conteudo {
+        width: 400px;
+    }
+
     .lista-beneficios, .imagem-beneficios {
         width: 100%;
+    }
+
+    .itens {
+        margin-left: 3.4em;
+    }
+
+    .imagem-beneficios {
+        width: 75%;  
+        margin-left: 3.5em; 
+    }
+
+    .video {
+        width: 80%;
     }
 
 }
