@@ -104,7 +104,8 @@ form {
     margin: 40px 0;
 }
 
-form label, form legend {
+form label,
+form legend {
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
@@ -149,7 +150,8 @@ thead {
     font-weight: bold;
 }
 
-td, th {
+td,
+th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
@@ -249,7 +251,12 @@ td, th {
 }
 
 @media screen and (max-width: 768px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video {
         width: auto;
     }
 
@@ -273,7 +280,8 @@ td, th {
         width: 190px;
     }
 
-    .mapa, .beneficios {
+    .mapa,
+    .beneficios {
         padding: 1.5em 0 3em;
     }
 
@@ -281,7 +289,8 @@ td, th {
         width: 700px;
     }
 
-    .lista-beneficios, .imagem-beneficios {
+    .lista-beneficios,
+    .imagem-beneficios {
         width: 100%;
     }
 
@@ -290,8 +299,8 @@ td, th {
     }
 
     .imagem-beneficios {
-        width: 90%;  
-        margin: 0 2rem; 
+        width: 90%;
+        margin: 0 2rem;
     }
 
     .video {
@@ -301,7 +310,12 @@ td, th {
 }
 
 @media screen and (max-width: 425px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video {
         width: auto;
     }
 
@@ -326,7 +340,8 @@ td, th {
         margin-left: 0;
     }
 
-    .mapa, .beneficios {
+    .mapa,
+    .beneficios {
         padding: 1.5em 0 3em;
     }
 
@@ -334,7 +349,8 @@ td, th {
         width: 400px;
     }
 
-    .lista-beneficios, .imagem-beneficios {
+    .lista-beneficios,
+    .imagem-beneficios {
         width: 100%;
     }
 
@@ -343,12 +359,70 @@ td, th {
     }
 
     .imagem-beneficios {
-        width: 75%;  
-        margin-left: 3.5em; 
+        width: 75%;
+        margin-left: 3.5em;
     }
 
     .video {
         width: 80%;
     }
 
+}
+
+@media screen and (max-width: 375px) {
+
+    nav ul li {
+        margin: 0 0 0 10px;
+    }
+
+    .titulo-principal {
+        font-size: 1.8em;
+    }
+
+    .mapa-conteudo {
+        width: 350px;
+    }
+
+    .itens {
+        margin-left: 3em;
+    }
+
+    .imagem-beneficios {
+        margin-left: 3em;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    nav ul li {
+        margin: 0 0 0 5px;
+    }
+
+    nav a {
+        font-size: 1.2em;
+    }
+
+    .titulo-principal {
+        font-size: 1.5em;
+    }
+
+    .utensilios {
+        width: 130px;
+    }
+
+    .mapa-conteudo {
+        width: 300px;
+    }
+
+    .itens {
+        margin-left: 2.4em;
+    }
+
+    .imagem-beneficios {
+        margin-left: 2.5em;
+    }
+
+    .video iframe {
+        height: 200px;
+    }
 }
