@@ -38,9 +38,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-.banner {
-    width: 100%;
-}
 /*Fim do cabeçalho*/
 
 .produtos {
@@ -98,4 +95,62 @@ footer {
     color: #FFFFFF;
     font-size: 13px;
     margin: 20px 0 0;
+}
+
+@media screen and (max-width: 768px) {
+
+    .caixa {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 425px) {
+
+    .caixa {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+
+    nav ul li {
+        margin: 0 0 0 10px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    nav ul li {
+        margin: 0 0 0 5px;
+    }
+
+    nav a {
+        font-size: 1.2em;
+    }
 }
