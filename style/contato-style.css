@@ -110,3 +110,85 @@ footer {
     font-size: 13px;
     margin: 20px 0 0;
 }
+
+@media screen and (max-width: 768px) {
+    .caixa {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    main {
+        width: auto;
+    }
+
+    form {
+        margin-left: 100px;
+    }
+
+    table {
+        margin-left: 100px;
+    }
+
+}
+
+@media screen and (max-width: 425px) {
+    form {
+        margin-left: 50px;
+    }
+
+    table {
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    nav ul li {
+        margin: 0 0 0 8px;
+    }
+
+    form {
+        margin-left: 30px;
+    }
+
+    .enviar {
+        font-size: 15px;
+    }
+
+    table {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    nav ul li {
+        margin: 0 0 0 3px;
+    }
+
+    nav a {
+        font-size: 1.2em;
+    }
+
+    form {
+        margin-left: 30px;
+    }
+
+    .enviar {
+        font-size: 13px;
+    }
+
+    table {
+        margin-left: 30px;
+    }
+}
