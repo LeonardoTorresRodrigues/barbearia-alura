@@ -115,39 +115,28 @@ footer {
         text-align: center;
     }
 
-}
-
-@media screen and (max-width: 425px) {
-
-    .caixa {
-        width: auto;
+    .produtos {
+        width: 300px;
     }
 
-    h1 {
-        text-align: center;
+    .produtos li {
+        width: 300px;
+        margin: 2em 0;
     }
-
-    nav {
-        position: static;
-    }
-
-    nav ul {
-        text-align: center;
-    }
-
+    
 }
 
 @media screen and (max-width: 375px) {
 
     nav ul li {
-        margin: 0 0 0 10px;
+        margin: 0 0 0 8px;
     }
 }
 
 @media screen and (max-width: 320px) {
 
     nav ul li {
-        margin: 0 0 0 5px;
+        margin: 0 0 0 3px;
     }
 
     nav a {
