@@ -1,3 +1,3 @@
 # barbearia-alura
 
-Site completo da BArbearia Alura com Hom-page, Produtos e Contatos.
+Site completo da Barbearia Alura com Hom-page, Produtos e Contatos.
