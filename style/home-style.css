@@ -2,7 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-/*Cabeçlho*/
+/*Cabeçalho*/
 
 header {
     background-color: #BBBBBB;
@@ -137,7 +137,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background-image: url("./assets/bg.jpg");
+    background-image: url("assets/bg.jpg");
     padding: 40px 0;
 }
 
