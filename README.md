@@ -13,3 +13,7 @@ pagina de Produtos...
 e pagina de Contato...
 
 ![Captura de Tela (131)](https://user-images.githubusercontent.com/91892938/168454560-c6a9cfc4-6f4d-41bb-bd9f-367c2230ee30.png)
+
+## Objetivos
+* Pratica com CSS3
+* Pratica com HTML5
