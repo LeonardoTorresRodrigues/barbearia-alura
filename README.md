@@ -9,8 +9,8 @@ Site completo da Barbearia Alura com Home-page, página de produtos e contato.
 | -------------  | --- |
 | :sparkles: Nome        | **Barbearia Alura**
 | :label: Tecnologias | html, css
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://leonardotorresrodrigues.github.io/barbearia-alura/
+| :fire: Desafio     | alura.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![Captura de Tela (127)](https://user-images.githubusercontent.com/91892938/168454528-14aa08ba-0170-4c0f-9826-b43ce720c132.png#vitrinedev)
