@@ -25,3 +25,7 @@ Site completo da Barbearia Alura com Home-page, página de produtos e contato.
 ## Objetivos
 * Pratica com CSS3
 * Pratica com HTML5
+
+# Em breve :construction:
+
+* Página feita em React
