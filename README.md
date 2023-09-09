@@ -3,7 +3,7 @@
 
 # Barbearia Alura
 
-Site completo da Barbearia Alura com Home-page, página de produtos e contato.
+Site completo da Barbearia Alura.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
