@@ -26,6 +26,3 @@ Site completo da Barbearia Alura.
 * Pratica com CSS3
 * Pratica com HTML5
 
-# Em breve :construction:
-
-* Página feita em React
