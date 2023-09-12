@@ -22,7 +22,3 @@ Site completo da Barbearia Alura.
 ![Captura de Tela (130)](https://user-images.githubusercontent.com/91892938/168454544-37fb5f92-e065-42dc-aa4e-fb22d4354b64.png#vitrinedev)
 ![Captura de Tela (131)](https://user-images.githubusercontent.com/91892938/168454560-c6a9cfc4-6f4d-41bb-bd9f-367c2230ee30.png#vitrinedev)
 
-## Objetivos
-* Pratica com CSS3
-* Pratica com HTML5
-
